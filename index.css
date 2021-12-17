@@ -1,0 +1,15 @@
+.display {
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color:blueviolet;
+}
+
+.button {
+    width: 100%
+    display: grid;
+    
+}
